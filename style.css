@@ -17,13 +17,13 @@ section{
     margin: 2%;
 }
 .top_banner{
-    background-image: url(/image/header-bg.png);
+    background-image: url(image/header-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 100% 900px;
 }
 .bottom_baner{
-    background-image: url(/image/biography-bg.png);
+    background-image: url(image/biography-bg.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: 100% 900px;
@@ -65,7 +65,7 @@ section{
     padding: 10%;
     height: 500px;
     /* border: green solid 2px;  */
-    background-image: url(/image/latest-work-bg.png);
+    background-image: url(image/latest-work-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: left;
@@ -90,7 +90,7 @@ section{
     padding: 10%;
     height: 600px;
     /* border: green solid 2px;  */
-    background-image: url(/image/footer-bg.png);
+    background-image: url(image/footer-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: left;
